@@ -44,7 +44,7 @@ h1 {
     position: absolute;
     left: 0;
     background-color: red;
-    background-image: url('./pngimg.com\ -\ deadpool_PNG95.png') ;
+    background-image: url('deadpool.png') ;
     background-size: cover;
 }
 
@@ -70,7 +70,7 @@ h1 {
     position: absolute;
     right: 0;
     background-color: gold;
-    background-image: url('./pngimg.com\ -\ batman_PNG84.png');
+    background-image: url('batman.png');
     background-size: cover;
 }
 
