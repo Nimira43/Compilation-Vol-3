@@ -61,7 +61,7 @@ nav ul li a:hover {
 }
 
 h1 {
-    background-image: url(./pexels-simone-defendi-12762122.jpg);
+    background-image: url('./bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ h1 {
 }
 
 .left {
-    background-image: url(./pexels-simone-defendi-12762122.jpg);
+    background-image: url('./bg.jpg');
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -144,7 +144,7 @@ h1 {
     transform: translateY(-50%);
     top: 50vh;
     font-size: 8rem;
-    background-image: url(./pexels-simone-defendi-12762122.jpg);
+    background-image: url('./bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
