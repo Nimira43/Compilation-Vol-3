@@ -31,7 +31,7 @@ function showTime() {
     const user = document.getElementById('user');
 
     if (h < 6 && session === 'AM') {
-        bg = `url(./img/pexels-drift-shutterbug-2085998.jpg)`;
+        bg = `url('./img/night.jpg).jpg)`;
         user.innerHTML = `Good night ${userName}`;
     } else if (h <= 11 && session === 'AM') {
         bg = `url(./img/day.jpg)`;
