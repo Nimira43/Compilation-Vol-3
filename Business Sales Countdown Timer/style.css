@@ -9,7 +9,7 @@
 header {
     height: 94vh;
     background-color: skyblue;
-    background: url('./pexels-max-rahubovskiy-7535062.jpg') no-repeat center center/cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     position: relative;
 }
 
